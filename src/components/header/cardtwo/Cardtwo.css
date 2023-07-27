@@ -1,0 +1,25 @@
+.cardtwo {}
+
+.cardtwo-img {
+    margin-top: 41px;
+    margin-left: 99px;
+    width: 84px;
+    height: 92px;
+    margin-bottom: 31px;
+}
+
+.cardtwo-text {
+    margin-left: 28px;
+    display: flex;
+    width: 226px;
+    height: 36px;
+    flex-direction: column;
+    justify-content: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Geometria;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
